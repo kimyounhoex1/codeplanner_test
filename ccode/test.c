@@ -3,6 +3,7 @@
 
 int main() {
     int unusedVar = 5;
+    int a = 10;
     printf("Hello, world!\n");
     return 0;
 }
