@@ -11,6 +11,7 @@ private:
     std::string yj;
 
     std::string yyyj;
+    std.string wqetqwetqwet;
     
     
 public:
