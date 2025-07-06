@@ -13,7 +13,7 @@ public:
     
     int add(int a, int b) const {
         return a + b;
-    }
+    }    
     
     int multiply(int a, int b) const {
         return a * b;
