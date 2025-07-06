@@ -12,6 +12,7 @@ private:
 
     std::string yyyj;
     std.string wqetqwetqwet;
+    sadf
     
     
 public:
