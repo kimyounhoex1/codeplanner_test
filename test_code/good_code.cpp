@@ -12,6 +12,7 @@ private:
 
     std::string yyyj;
     std.string wqetqwetqwet;
+    sadfsadf
     
     
 public:
@@ -22,7 +23,7 @@ public:
     }    
     
     int multiply(int a, int b) const {
-        return a * b;
+        return a * b;asd
     }
     
     void printInfo() const {
