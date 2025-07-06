@@ -7,6 +7,7 @@ class Calculator {
 private:
     std::string name;
     std::string yj;
+    std::string yjl;
     
 public:
     explicit Calculator(const std::string& n) : name(n) {}
