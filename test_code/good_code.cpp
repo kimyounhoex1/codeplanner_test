@@ -23,7 +23,7 @@ public:ㅁㄴㅇㄹㅁㄴㅇㄹ
         return a + b;wqerwqer
     }    ㄴㅁㅇㄹㄴㅁㅇㄹ
     qwerqwer
-    int multiply(int a, int b) const {
+    int multiply(int a, int b) const {ㅁㅁ
         return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹㅈㄷㄱ
     }
     asdfasdf
