@@ -30,7 +30,7 @@ public:ㅁㄴㅇㄹㅁㄴㅇㄹ
     void printInfo() const {qwerqwer
         std::cout << "Calculator: " << name << std::endl;ss
     }aa
-};
+};asdfasdf
 
 int main() {
     auto calc = std::make_unique<Calculator>("MyCalc");
