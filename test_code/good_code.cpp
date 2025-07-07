@@ -6,30 +6,22 @@
 class Calculator {
 private:
     std::string name;
-    std::string yj;
-    std::string yj;
-    std::string yj;
-
-    std::string yyyj;
-    std.string wqetqwetqwet;
-    sadfsadfss
-    wqerqwer
-    asdf
-    serqwerqwerwqer
-public:ㅁㄴㅇㄹㅁㄴㅇㄹ
-    explicit Calculator(const std::string& n) : name(n)ㅂㅈasdfsadfㄷㄱㅈㅂㄷㄱasdfasdf {}
-    sadfsadf
-    int add(int a, int b) const {ㅁㄴㄹㅇ
-        return a + b;wqerwqer
-    }    ㄴㅁㅇㄹㄴㅁㅇㄹ
-    qwerqwerqq
-    int multiply(int a, int b) const {ㅁㅁ
-        return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹㅈㄷㄱaa
+    
+public:
+    explicit Calculator(const std::string& n) : name(n) {}
+    
+    int add(int a, int b) const {
+        return a + b;
     }
-    asdfasdf
+    
+    int multiply(int a, int b) const {
+        std::cout << "hello world, my world";
+        return a * b;
+    }
+    
     void printInfo() const {
-        std::cout << "Calculator: " << name << std::endl;ss
-    }aa
+        std::cout << "Calculator: " << name << std::endl;
+    }
 };
 
 int main() {
