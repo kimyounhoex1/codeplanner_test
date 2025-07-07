@@ -23,13 +23,13 @@ public:ㅁㄴㅇㄹㅁㄴㅇㄹ
         return a + b;wqerwqer
     }    ㄴㅁㅇㄹㄴㅁㅇㄹ
     qwerqwer
-    int multiply(int a, int b) const {
-        return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹㅈㄷㄱ
+    int multiply(int a, int b) const {ㅁㅁ
+        return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹㅈㄷㄱaa
     }
     asdfasdf
     void printInfo() const {
-        std::cout << "Calculator: " << name << std::endl;
-    }
+        std::cout << "Calculator: " << name << std::endl;ss
+    }aa
 };
 
 int main() {
