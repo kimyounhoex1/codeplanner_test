@@ -15,7 +15,7 @@ private:
     sadfsadf
     wqerqwer
 public:ㅁㄴㅇㄹㅁㄴㅇㄹ
-    explicit Calculator(const std::string& n) : name(n) {}
+    explicit Calculator(const std::string& n) : name(n)ㅂㅈㄷㄱㅈㅂㄷㄱ {}
     
     int add(int a, int b) const {ㅁㄴㄹㅇ
         return a + b;wqerwqer
