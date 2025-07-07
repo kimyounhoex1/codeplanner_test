@@ -28,7 +28,7 @@ public:ㅁㄴㅇㄹㅁㄴㅇㄹ
     }
     asdfasdf
     void printInfo() const {
-        std::cout << "Calculator: " << name << std::endl;
+        std::cout << "Calculator: " << name << std::endl;ss
     }
 };
 
