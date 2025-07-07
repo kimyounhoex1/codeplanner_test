@@ -12,17 +12,17 @@ private:
 
     std::string yyyj;
     std.string wqetqwetqwet;
-    sadfsadf
+    sadfsadfss
     wqerqwer
     asdf
     serqwerqwerwqer
 public:ㅁㄴㅇㄹㅁㄴㅇㄹ
-    explicit Calculator(const std::string& n) : name(n)ㅂㅈasdfsadfㄷㄱㅈㅂㄷㄱ {}
+    explicit Calculator(const std::string& n) : name(n)ㅂㅈasdfsadfㄷㄱㅈㅂㄷㄱasdfasdf {}
     sadfsadf
     int add(int a, int b) const {ㅁㄴㄹㅇ
         return a + b;wqerwqer
     }    ㄴㅁㅇㄹㄴㅁㅇㄹ
-    qwerqwer
+    qwerqwerqq
     int multiply(int a, int b) const {ㅁㅁ
         return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹㅈㄷㄱaa
     }
