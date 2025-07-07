@@ -13,19 +13,20 @@ private:
     std::string yyyj;
     std.string wqetqwetqwet;
     sadfsadf
-    
-    
-public:
-    explicit Calculator(const std::string& n) : name(n) {}
-    
-    int add(int a, int b) const {
-        return a + b;
-    }    
-    
+    wqerqwer
+    asdf
+    serqwerqwerwqer
+public:ㅁㄴㅇㄹㅁㄴㅇㄹ
+    explicit Calculator(const std::string& n) : name(n)ㅂㅈasdfsadfㄷㄱㅈㅂㄷㄱ {}
+    sadfsadf
+    int add(int a, int b) const {ㅁㄴㄹㅇ
+        return a + b;wqerwqer
+    }    ㄴㅁㅇㄹㄴㅁㅇㄹ
+    qwerqwer
     int multiply(int a, int b) const {
-        return a * b;asd
+        return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹㅈㄷㄱ
     }
-    
+    asdfasdf
     void printInfo() const {
         std::cout << "Calculator: " << name << std::endl;
     }
