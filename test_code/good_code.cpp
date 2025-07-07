@@ -6,34 +6,26 @@
 class Calculator {
 private:
     std::string name;
-    std::string yj;
-    std::string yj;
-    std::string yj;
-
-    std::string yyyj;
-    std.string wqetqwetqwet;
-    sadfsadfss
-    wqerqwer
-    asdf
-    serqwerqwerwqer
-public:ㅁㄴㅇㄹㅁㄴㅇㄹ
-    explicit Calculator(const std::string& n) : name(n)ㅂㅈasdfsadfㄷㄱㅈㅂㄷㄱasdfasdf {}
-    sadfsadf
-    int add(int a, int b) const {ㅁㄴㄹㅇ
-        return a + b;wqerwqer
-    }    ㄴㅁㅇㄹㄴㅁㅇㄹ
-    qwerqwerqq
-    int multiply(int a, int b) const {ㅁㅁ
-        return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹㅈasdfㄷㄱaa
-    }ㅁㄴㅇㄹㅁㄴㅇㄹ
-    asdfasdf
-    void printInfo() const {qwerqwer
-        std::cout << "Calculator: " << name << std::endl;ss
-    }aaasdfasdf
-};asdfasdfㅁㄴㅇㄹㅁㄴㅇㄹ
+    
+public:
+    explicit Calculator(const std::string& n) : name(n) {}
+    
+    int add(int a, int b) const {
+        return a + b;
+    }
+    
+    int multiply(int a, int b) const {
+        std::cout << "hello";
+        return a * b;
+    }
+    
+    void printInfo() const {
+        std::cout << "Calculator: " << name << std::endl;
+    }
+};
 
 int main() {
-    auto calc = std::make_uniqueasdf<Calculator>("MyCalc"asdf);
+    auto calc = std::make_unique<Calculator>("MyCalc");
     
     calc->printInfo();
     
