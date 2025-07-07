@@ -13,13 +13,12 @@ private:
     std::string yyyj;
     std.string wqetqwetqwet;
     sadfsadf
-    
-    
+    wqerqwer
 public:ㅁㄴㅇㄹㅁㄴㅇㄹ
     explicit Calculator(const std::string& n) : name(n) {}
     
     int add(int a, int b) const {ㅁㄴㄹㅇ
-        return a + b;
+        return a + b;wqerwqer
     }    ㄴㅁㅇㄹㄴㅁㅇㄹ
     
     int multiply(int a, int b) const {
