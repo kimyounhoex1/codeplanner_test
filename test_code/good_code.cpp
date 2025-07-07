@@ -22,7 +22,7 @@ public:ㅁㄴㅇㄹㅁㄴㅇㄹ
     }    ㄴㅁㅇㄹㄴㅁㅇㄹ
     
     int multiply(int a, int b) const {
-        return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹ
+        return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹㅈㄷㄱ
     }
     
     void printInfo() const {
