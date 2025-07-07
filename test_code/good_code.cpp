@@ -14,6 +14,7 @@ private:
     std.string wqetqwetqwet;
     sadfsadf
     wqerqwer
+    serqwerqwerwqer
 public:ㅁㄴㅇㄹㅁㄴㅇㄹ
     explicit Calculator(const std::string& n) : name(n)ㅂㅈasdfsadfㄷㄱㅈㅂㄷㄱ {}
     sadfsadf
