@@ -33,7 +33,7 @@ public:ㅁㄴㅇㄹㅁㄴㅇㄹ
 };asdfasdfㅁㄴㅇㄹㅁㄴㅇㄹ
 
 int main() {
-    auto calc = std::make_unique<Calculator>("MyCalc"asdf);
+    auto calc = std::make_uniqueasdf<Calculator>("MyCalc"asdf);
     
     calc->printInfo();
     
