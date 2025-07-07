@@ -25,7 +25,7 @@ public:ㅁㄴㅇㄹㅁㄴㅇㄹ
     qwerqwerqq
     int multiply(int a, int b) const {ㅁㅁ
         return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹㅈㄷㄱaa
-    }
+    }ㅁㄴㅇㄹㅁㄴㅇㄹ
     asdfasdf
     void printInfo() const {qwerqwer
         std::cout << "Calculator: " << name << std::endl;ss
