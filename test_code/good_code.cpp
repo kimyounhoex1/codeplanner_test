@@ -6,24 +6,19 @@
 class Calculator {
 private:
     std::string name;
-    std::string yj;
-    std::string yj;
-    std::string yj;
-
-    std::string yyyj;
-    std.string wqetqwetqwet;
-    sadfsadf
-    
     
 public:
     explicit Calculator(const std::string& n) : name(n) {}
     
     int add(int a, int b) const {
         return a + b;
-    }    
+    }
     
     int multiply(int a, int b) const {
-        return a * b;asd
+
+        std::cout << "hello world, my world........";
+        std::cout << "hello world, my world";
+        return a * b;
     }
     
     void printInfo() const {
