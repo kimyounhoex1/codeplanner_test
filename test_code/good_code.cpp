@@ -22,7 +22,7 @@ public:ㅁㄴㅇㄹㅁㄴㅇㄹ
     int add(int a, int b) const {ㅁㄴㄹㅇ
         return a + b;wqerwqer
     }    ㄴㅁㅇㄹㄴㅁㅇㄹ
-    qwerqwer
+    qwerqwerqq
     int multiply(int a, int b) const {ㅁㅁ
         return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹㅈㄷㄱaa
     }
