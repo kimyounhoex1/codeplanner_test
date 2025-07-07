@@ -15,7 +15,7 @@ private:
     sadfsadf
     
     
-public:
+public:ㅁㄴㅇㄹㅁㄴㅇㄹ
     explicit Calculator(const std::string& n) : name(n) {}
     
     int add(int a, int b) const {ㅁㄴㄹㅇ
