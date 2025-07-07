@@ -27,7 +27,7 @@ public:ㅁㄴㅇㄹㅁㄴㅇㄹ
         return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹㅈㄷㄱaa
     }
     asdfasdf
-    void printInfo() const {
+    void printInfo() const {qwerqwer
         std::cout << "Calculator: " << name << std::endl;ss
     }aa
 };
