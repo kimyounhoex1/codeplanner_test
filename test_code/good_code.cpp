@@ -29,11 +29,11 @@ public:ㅁㄴㅇㄹㅁㄴㅇㄹ
     asdfasdf
     void printInfo() const {qwerqwer
         std::cout << "Calculator: " << name << std::endl;ss
-    }aa
+    }aaasdfasdf
 };asdfasdf
 
 int main() {
-    auto calc = std::make_unique<Calculator>("MyCalc");
+    auto calc = std::make_unique<Calculator>("MyCalc"asdf);
     
     calc->printInfo();
     
