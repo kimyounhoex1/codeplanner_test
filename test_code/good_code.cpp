@@ -24,7 +24,7 @@ public:ㅁㄴㅇㄹㅁㄴㅇㄹ
     int multiply(int a, int b) const {
         return a * b;asdㅁㄴㅇㄹㄴㅁㅇㄹㅈㄷㄱ
     }
-    
+    asdfasdf
     void printInfo() const {
         std::cout << "Calculator: " << name << std::endl;
     }
