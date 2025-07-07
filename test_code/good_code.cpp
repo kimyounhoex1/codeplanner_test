@@ -15,7 +15,7 @@ public:
     }
     
     int multiply(int a, int b) const {
-        std::cout << "hello world, my world.....ㄹㄹㄹㄹ.....";
+        std::cout << "hello world, my world.....ㄹㄹㄹㄹ....ff.";
         return a * b;
     }
     
