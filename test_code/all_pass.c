@@ -5,6 +5,6 @@ int main(void) {
     if (i == 5) {
       printf("i is 5\\n");
     }
-  }
+  } 
   return 0;
 }
